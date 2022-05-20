@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "440287329396",
+    "project_id": "auth-c8f45",
+    "storage_bucket": "auth-c8f45.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:440287329396:android:6fd9b816ab764ed0192521",
+        "android_client_info": {
+          "package_name": "com.mobdeve.jego.authapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "440287329396-m02d1ole3hsuvj2lh4fk4fjlua8dhevn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABXqLOBI6xIRuiEHfCP37RycmEOG5Yd04"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "440287329396-m02d1ole3hsuvj2lh4fk4fjlua8dhevn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
